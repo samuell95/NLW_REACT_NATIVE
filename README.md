@@ -18,8 +18,13 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Aplicação no mobile" src="./github/preview.jpg.jpg" width="100%">
+  <img alt="Aplicação no mobile" src="./github/preview.jpg" width="100%">
 </p>
+<div flex-direction: row align="center">
+  <img alt="Aplicação no mobile" src="./github/Screenshot_1707402389.png" width="30%">
+  <img alt="Aplicação no mobile" src="./github/Screenshot_1707402515.png" width="30%">
+  <img alt="Aplicação no mobile" src="./github/Screenshot_1707402546.png" width="30%">
+</div>
 
 ## 🚀 Tecnologias
 

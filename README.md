@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Expo Router
 ## 💻 Projeto
 
-Uma aplicação de delivery, onde o usuário pode visualizar e selecionar produtos do cardápio e enviar seu pedido pelo WhatsApp para o estabelecimento 🏪
+Uma aplicação de delivery, onde o cliente pode visualizar e selecionar produtos do cardápio e enviar seu pedido pelo WhatsApp para o estabelecimento 🏪
 
 ## 🔖 Layout
 
